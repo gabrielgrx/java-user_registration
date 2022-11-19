@@ -1,0 +1,13 @@
+Spring boot -> Criar uma API de cadastro de Usuários com:
+id, nome, data de nascimento, cpf, rua, numero, cidade, estados, cep, telefone, email.
+
+A API deve executar pelo menos os 4 métodos básicos http(GET, POST, PATCH E DELETE).
+
+
+Dependencias:
+
+Spring Web
+Spring Data Jpa
+Validation Hibernate
+MySql Driver
+Lombok
